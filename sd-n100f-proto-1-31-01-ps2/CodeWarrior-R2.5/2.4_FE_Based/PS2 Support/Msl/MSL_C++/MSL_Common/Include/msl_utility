@@ -1,0 +1,41 @@
+
+
+
+
+uint32& second();
+uint32& second();
+allocator_1& first();
+allocator_1& first();
+
+// second__Q210Metrowerks41compressed_pair<Q23std13allocator<Ui>,Ui>Fv
+// Start address: 0x20a7f0
+uint32& compressed_pair::second()
+{
+	// Line 859, Address: 0x20a7f0, Func Offset: 0
+	// Func End, Address: 0x20a818, Func Offset: 0x28
+}
+
+// second__Q310Metrowerks7details47compressed_pair_imp<Q23std13allocator<Ui>,Ui,1>Fv
+// Start address: 0x20a820
+uint32& compressed_pair_imp::second()
+{
+	// Line 721, Address: 0x20a820, Func Offset: 0
+	// Func End, Address: 0x20a838, Func Offset: 0x18
+}
+
+// first__Q210Metrowerks41compressed_pair<Q23std13allocator<Ui>,Ui>Fv
+// Start address: 0x20a870
+allocator_1& compressed_pair::first()
+{
+	// Line 856, Address: 0x20a870, Func Offset: 0
+	// Func End, Address: 0x20a898, Func Offset: 0x28
+}
+
+// first__Q310Metrowerks7details47compressed_pair_imp<Q23std13allocator<Ui>,Ui,1>Fv
+// Start address: 0x20a8a0
+allocator_1& compressed_pair_imp::first()
+{
+	// Line 718, Address: 0x20a8a0, Func Offset: 0
+	// Func End, Address: 0x20a8b8, Func Offset: 0x18
+}
+

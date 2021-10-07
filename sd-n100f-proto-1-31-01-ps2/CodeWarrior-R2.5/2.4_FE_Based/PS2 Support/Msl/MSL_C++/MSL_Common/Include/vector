@@ -1,0 +1,44 @@
+
+
+
+
+void* __dt();
+uint32& cap();
+allocator_1& alloc();
+uint32&* data();
+
+// __dt__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>Fv
+// Start address: 0x20a6d0
+void* __vector_pod::__dt()
+{
+	// Line 223, Address: 0x20a6d0, Func Offset: 0
+	// Line 224, Address: 0x20a6f4, Func Offset: 0x24
+	// Line 225, Address: 0x20a70c, Func Offset: 0x3c
+	// Line 226, Address: 0x20a770, Func Offset: 0xa0
+	// Func End, Address: 0x20a788, Func Offset: 0xb8
+}
+
+// cap__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>Fv
+// Start address: 0x20a7c0
+uint32& __vector_pod::cap()
+{
+	// Line 125, Address: 0x20a7c0, Func Offset: 0
+	// Func End, Address: 0x20a7e8, Func Offset: 0x28
+}
+
+// alloc__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>Fv
+// Start address: 0x20a840
+allocator_1& __vector_pod::alloc()
+{
+	// Line 123, Address: 0x20a840, Func Offset: 0
+	// Func End, Address: 0x20a868, Func Offset: 0x28
+}
+
+// data__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>Fv
+// Start address: 0x20a8c0
+uint32&* __vector_pod::data()
+{
+	// Line 121, Address: 0x20a8c0, Func Offset: 0
+	// Func End, Address: 0x20a8dc, Func Offset: 0x1c
+}
+

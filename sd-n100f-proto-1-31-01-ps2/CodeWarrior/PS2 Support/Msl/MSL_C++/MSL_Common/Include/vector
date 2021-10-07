@@ -1,0 +1,33 @@
+
+
+
+
+void* __ct();
+void reserve(uint32 n);
+
+// __ct__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>Fv
+// Start address: 0x3a5e00
+void* __vector_pod::__ct()
+{
+	// Line 154, Address: 0x3a5e00, Func Offset: 0
+	// Line 158, Address: 0x3a5e0c, Func Offset: 0xc
+	// Func End, Address: 0x3a5e18, Func Offset: 0x18
+}
+
+// reserve__Q23std38__vector_pod<Ui,Q23std13allocator<Ui>>FUi
+// Start address: 0x400240
+void __vector_pod::reserve(uint32 n)
+{
+	uint32* olddata;
+	// Line 350, Address: 0x400240, Func Offset: 0
+	// Line 351, Address: 0x400264, Func Offset: 0x24
+	// Line 353, Address: 0x400274, Func Offset: 0x34
+	// Line 354, Address: 0x400278, Func Offset: 0x38
+	// Line 355, Address: 0x4002bc, Func Offset: 0x7c
+	// Line 357, Address: 0x4002c4, Func Offset: 0x84
+	// Line 358, Address: 0x4002fc, Func Offset: 0xbc
+	// Line 360, Address: 0x400308, Func Offset: 0xc8
+	// Line 362, Address: 0x40030c, Func Offset: 0xcc
+	// Func End, Address: 0x400330, Func Offset: 0xf0
+}
+

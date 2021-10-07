@@ -1,0 +1,16 @@
+
+
+
+
+void deallocate(uint32* p);
+
+// deallocate__Q23std13allocator<Ui>FPUiUi
+// Start address: 0x20a790
+void deallocate(uint32* p)
+{
+	// Line 205, Address: 0x20a790, Func Offset: 0
+	// Line 206, Address: 0x20a79c, Func Offset: 0xc
+	// Line 207, Address: 0x20a7a8, Func Offset: 0x18
+	// Func End, Address: 0x20a7b8, Func Offset: 0x28
+}
+
